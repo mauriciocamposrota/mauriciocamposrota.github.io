@@ -9,21 +9,36 @@ body {
   margin: 20px auto;
 }
 h1 {
-	color: rgba(63, 81, 181, 0.5);
+	color: white;
 }
 #summary {
 	color: orange;
 }
 .unicorn {
 	color: purple;
+	position: relative;
+	bottom: 220px;
 }
 /*SOS*/
 #fotoperfil {
 	position: relative;
-	left: 100px;
-	border: 10px solid orange;
+	left: 300px;
+	border: 10px solid white;
 }
 #codertitle {
+	color: orange;
 	position: relative;
-	bottom: 100px;
+	bottom: 350px;
+}
+#p1 {
+	position: relative;
+	bottom: 350px;
+}
+.lista {
+	position: relative;
+	bottom: 300px;
+}
+.text {
+	position: relative;
+	bottom: 220px;
 }

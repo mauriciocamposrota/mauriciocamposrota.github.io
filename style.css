@@ -1,44 +1,44 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background: url(backg.jpg) repeat;
-  background-size: 960px;
+  background: url(desktopwall.jpg) repeat;
+  background-size: 110%;
 }
 #wrapper {
-  width: 960px;
+  width: 940px;
   margin: 20px auto;
 }
+.navbar-inverse .btn-link {
+    color: white;
+}
 h1 {
+	color: white;
+	font-size: 25px;
+}
+#codertitle {
+	color: orange;
+	font-size: 20px;
+}
+#p1 {
+	color: white;
+	font-size: 15px;
+}
+#fotoperfil {
+	border: 5px solid white;
+}
+h4 {
+	color: orange;
+	font-size: 20px;
+}
+.lista {
 	color: white;
 }
 #summary {
 	color: orange;
 }
-.unicorn {
-	color: purple;
-	position: relative;
-	bottom: 220px;
+#texto {
+	color: white;
 }
 /*SOS*/
-#fotoperfil {
-	position: relative;
-	left: 300px;
-	border: 10px solid white;
-}
-#codertitle {
-	color: orange;
-	position: relative;
-	bottom: 350px;
-}
-#p1 {
-	position: relative;
-	bottom: 350px;
-}
-.lista {
-	position: relative;
-	bottom: 300px;
-}
-.text {
-	position: relative;
-	bottom: 220px;
-}
+
+
